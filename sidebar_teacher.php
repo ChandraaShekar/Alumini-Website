@@ -153,6 +153,11 @@ $userType = "teacher";
                                     </a>
                                     
                                   </li>
+                                  <li class="">
+                                    <a href="logout.php">
+                                      <span class="link-title">Logout</span>
+                                      <span class="fa arrow"></span></a>
+                                  </li>
                                 </ul>
                         <!-- /#menu -->
                         

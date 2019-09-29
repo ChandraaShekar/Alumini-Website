@@ -136,12 +136,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b2e1ff', end
   </div>
 </div>
     <div class="form-signin">
-    <div class="text-center">
-        <img src="assets/img/logo.png" alt="Metis Logo" style="width: 100px;">
-                <h5>Cavite State Univeristy</h5>
-        <h3>CVSU-CEIT DIT ONLINE TRACER STUDY</h3>
-
-    </div>
     <hr>
     <div class="text-center">
         <ul class="list-inline">
